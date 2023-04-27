@@ -10,5 +10,5 @@
 
 ## 目录
 1. [LoLBP数据导出器](ideas/LoLBP数据导出器.md)
-2. [网易云音乐BetterNCM桌面歌词捕获修复插件](ideas/网易云音乐BetterNCM桌面歌词捕获修复插件.md)
-3. [网易云音乐BetterNCM实时播放数据导出插件](ideas/网易云音乐BetterNCM实时播放数据导出插件.md)
+2. [BetterNCM桌面歌词捕获修复插件](ideas/BetterNCM桌面歌词捕获修复插件.md)
+3. [BetterNCM实时播放数据导出插件](ideas/BetterNCM实时播放数据导出插件.md)
