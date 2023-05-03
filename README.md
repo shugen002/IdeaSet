@@ -13,3 +13,4 @@
 2. [BetterNCM桌面歌词捕获修复插件](ideas/BetterNCM桌面歌词捕获修复插件.md)
 3. [BetterNCM实时播放数据导出插件](ideas/BetterNCM实时播放数据导出插件.md)
 4. [自动13站用户名拼歌词](ideas/自动13站用户名拼歌词.md)
+5. [给OBS Browser Panel添加FrontendAPI支持]("ideas/给OBS Browser Panel添加FrontendAPI支持.md")
